@@ -1,4 +1,4 @@
-# Mobile Modulo06 RocketSeat Bootcamp
+# Mobile Modulo06 Rocketseat Bootcamp
 
 Foi utilizado o `YARN`e `NPM` como packages managenment.
 
