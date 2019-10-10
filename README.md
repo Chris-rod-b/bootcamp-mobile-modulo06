@@ -1,6 +1,6 @@
 # Mobile Modulo06 Rocketseat Bootcamp
 
-Foi utilizado o `YARN`e `NPM` como packages managenment.
+Foi utilizado o `YARN`e `NPM` como packages management.
 
 Para bom funcionamento desse programa, é nessessario adicionar as pastas de ios e andriod, 
 padrões do react native, e a pasta node_modulos.
